@@ -1,0 +1,8 @@
+
+{
+  "name": "BuildFlow AI",
+  "description": "The intelligent operating system for electrical contractors. Automate RFP analysis, generate precision estimates, and optimize bid strategy with industry-specific AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
